@@ -16,7 +16,7 @@ Pokedex app built with Flutter
 ![Pokemon Info - Base Stats (Expanded)](screenshots/pokemon-info-expanded.png "Pokemon Info - Base Stats (Expanded)")
 
 ## Video demo
-[![Demo](screenshots/thumbnail.png)](https://www.youtube.com/watch?v=qKrFWerjoV8)
+
 
 ## Installation
 
@@ -34,7 +34,7 @@ Pokedex app built with Flutter
 - [x] Pokedex - FAB
 - [x] Pokedex - Add FAB animation
 - [ ] Pokedex - Add grid loading animation
-- [x] Pokedex - Add more Pokemons by [balvinderz](https://github.com/balvinderz)
+- [x] Pokedex - Add more Pokemons 
 - [x] Pokedex - Add load more
 - [x] Pokemon Info
 - [x] Pokemon Info - About
@@ -43,17 +43,10 @@ Pokedex app built with Flutter
 - [ ] Pokemon Info - Moves (no design)
 - [x] Pokemon Info - Make tab area expandable
 - [x] Pokemon Info - Add animations
-- [x] Pokemon Info - Add more Pokemons by [balvinderz](https://github.com/balvinderz)
+- [x] Pokemon Info - Add more Pokemons 
 - [ ] Pokemon Info - Add missing data in About tab
-- [x] Pokemon Info - Add Base Stats data by [balvinderz](https://github.com/balvinderz)
-- [x] Pokemon Info - Add Evolution data by [balvinderz](https://github.com/balvinderz)
+- [x] Pokemon Info - Add Base Stats 
+- [x] Pokemon Info - Add Evolution 
 
-## Thanks
 
-- [Saepul Nahwan](https://dribbble.com/saepulnahwan23) for his [Pokedex App design](https://dribbble.com/shots/6545819-Pokedex-App)
-- [Sabri Bey](https://www.deviantart.com/sabribey) for the Pikachu gif
-- [Flutter](https://flutter.dev) for the great cross platform framework
 
-## License
-
-All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
