@@ -17,6 +17,7 @@ Pokedex app built with Flutter
 
 ## Video demo
 
+https://www.youtube.com/watch?v=T0r_c68-eCg
 
 ## Installation
 
